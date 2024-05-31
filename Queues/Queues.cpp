@@ -39,6 +39,9 @@ public:
 			return;
 		}
 
+		cout << "\nThe Element Deleted from the queues is : " << queue_array[FRONT] << "\n";
+
+		
 		
 	}
 	
